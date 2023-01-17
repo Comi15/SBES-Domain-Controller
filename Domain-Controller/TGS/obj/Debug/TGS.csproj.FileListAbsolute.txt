@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\bin\Debug\TGS.exe.config
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\bin\Debug\TGS.exe
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\bin\Debug\TGS.pdb
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\bin\Debug\Common.dll.config
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\obj\Debug\TGS.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\obj\Debug\TGS.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\obj\Debug\TGS.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\obj\Debug\TGS.exe
+C:\Users\Korisnik\Desktop\Sbes_Main_Grana\SBES_Projekat\TGS\obj\Debug\TGS.pdb

@@ -1,0 +1,24 @@
+C:\Users\Zorana\Desktop\Vezba01\ServiceContracts\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Zorana\Desktop\Vezba01\ServiceContracts\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Desktop\Vezba01\ServiceContracts\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Zorana\Desktop\Vezba01\ServiceContracts\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Desktop\Vezba01\ServiceContracts\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Zorana\Desktop\Vezba01\ServiceContracts\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\ServiceContracts\obj\Debug\ServiceContracts.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\ServiceContracts\bin\Debug\ServiceContracts.dll
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\ServiceContracts\bin\Debug\ServiceContracts.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\ServiceContracts\obj\Debug\ServiceContracts.dll
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\ServiceContracts\obj\Debug\ServiceContracts.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\ServiceContracts\obj\Debug\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\ServiceContracts\obj\Debug\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\ServiceContracts\obj\Debug\ServiceContracts.pdb

@@ -1,0 +1,40 @@
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\bin\Debug\SecurityService.exe.config
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\bin\Debug\SecurityService.exe
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\bin\Debug\SecurityService.pdb
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\bin\Debug\ServiceContracts.dll
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\bin\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\obj\Debug\SecurityService.csprojAssemblyReference.cache
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\obj\Debug\SecurityService.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\obj\Debug\SecurityService.csproj.CopyComplete
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\obj\Debug\SecurityService.exe
+C:\Users\Zorana\Desktop\Vezba01\SecurityService\obj\Debug\SecurityService.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\obj\Debug\SecurityService.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\obj\Debug\SecurityService.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\obj\Debug\SecurityService.exe
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\obj\Debug\SecurityService.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\bin\Debug\SecurityService.exe.config
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\bin\Debug\SecurityService.exe
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\bin\Debug\SecurityService.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\bin\Debug\ServiceContracts.dll
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\bin\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\SecurityService\obj\Debug\SecurityService.csproj.CopyComplete
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\bin\Debug\SecurityService.exe.config
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\bin\Debug\SecurityService.exe
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\bin\Debug\SecurityService.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\bin\Debug\ServiceContracts.dll
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\bin\Debug\ServiceContracts.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\obj\Debug\SecurityService.csproj.AssemblyReference.cache
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\obj\Debug\SecurityService.csproj.CoreCompileInputs.cache
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\obj\Debug\SecurityService.csproj.CopyComplete
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\obj\Debug\SecurityService.exe
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\SecurityService\obj\Debug\SecurityService.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\bin\Debug\SecurityService.exe.config
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\bin\Debug\SecurityService.exe
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\bin\Debug\SecurityService.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\bin\Debug\ServiceContracts.dll
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\bin\Debug\ServiceContracts.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\obj\Debug\SecurityService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\obj\Debug\SecurityService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\obj\Debug\SecurityService.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\obj\Debug\SecurityService.exe
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\SecurityService\obj\Debug\SecurityService.pdb

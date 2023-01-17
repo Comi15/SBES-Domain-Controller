@@ -1,0 +1,40 @@
+C:\Users\Zorana\Desktop\Vezba01\Client\bin\Debug\Client.exe.config
+C:\Users\Zorana\Desktop\Vezba01\Client\bin\Debug\Client.exe
+C:\Users\Zorana\Desktop\Vezba01\Client\bin\Debug\Client.pdb
+C:\Users\Zorana\Desktop\Vezba01\Client\bin\Debug\ServiceContracts.dll
+C:\Users\Zorana\Desktop\Vezba01\Client\bin\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Desktop\Vezba01\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Zorana\Desktop\Vezba01\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Desktop\Vezba01\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Zorana\Desktop\Vezba01\Client\obj\Debug\Client.exe
+C:\Users\Zorana\Desktop\Vezba01\Client\obj\Debug\Client.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\obj\Debug\Client.exe
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\obj\Debug\Client.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\bin\Debug\Client.exe.config
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\bin\Debug\Client.exe
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\bin\Debug\Client.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\bin\Debug\ServiceContracts.dll
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\bin\Debug\ServiceContracts.pdb
+C:\Users\Zorana\Downloads\Vezba_1_1_template\Vezba01\Client\obj\Debug\Client.csproj.CopyComplete
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\bin\Debug\Client.exe.config
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\bin\Debug\Client.exe
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\bin\Debug\Client.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\bin\Debug\ServiceContracts.dll
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\bin\Debug\ServiceContracts.pdb
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\obj\Debug\Client.csproj.CopyComplete
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\obj\Debug\Client.exe
+E:\sbes vezba 1\Vezba_1_template\Vezba_1\Client\obj\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\obj\Debug\Client.exe
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\obj\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\bin\Debug\Client.exe.config
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\bin\Debug\Client.exe
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\bin\Debug\Client.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\bin\Debug\ServiceContracts.dll
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\bin\Debug\ServiceContracts.pdb
+C:\Users\Korisnik\Desktop\Sbes_Projekat\Fajlovi-Kriptovanje\Client\obj\Debug\Client.csproj.CopyComplete
